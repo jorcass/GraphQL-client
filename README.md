@@ -1,4 +1,4 @@
-##GraphQL client
+# GraphQL client
 
 This is a react basic front-end which consumes data from a GraphQL server. Ultimately it uses the spaceX api data to describe the different launches with its respective details. 
 
